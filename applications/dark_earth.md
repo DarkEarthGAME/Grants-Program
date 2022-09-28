@@ -17,7 +17,7 @@ Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary).
 
-*Dark Earth is an ecosystem of games that share the same storyline and in which the different decentralized elements can be used among the different games.*
+**Dark Earth is an ecosystem of games that share the same storyline and in which the different decentralized elements can be used among the different games.**
 
 - A brief description of your project.
 
@@ -27,20 +27,18 @@ These services are related with the use of the decentralized elements of the gam
 
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
 
-Using all the elements of the blockchain:
+**Using all the elements of the blockchain:
 
 - Fast transactions
 - Lowgas
-- NFTs
-- Tokens
+- Smart Contracts (NFTs & Token)**
 
 - An indication of why your team is interested in creating this project.
 
-To analyze the target market of Dark Earth Card Battle, we looked at the distribution of players and their consumption in the Card Battle sub-genre of videogames.
+**To analyze the target market of Dark Earth Card Battle, we looked at the distribution of players and their consumption in the Card Battle sub-genre of videogames.
 According to the analysis carried out in 2021 by Sensor Tower, the Card Battle sub-genre represents 1% of all gaming profits worldwide. That is more than $55 million per month.
 In addition, according to the numbers of active players published by the leading games of the sub-genre (Hearthstone, Magic Arena, Legends of Runeterra, etc.), the number of followers and active players for this format is somewhere around 35 million per year.
-According to the Sensor Tower study mentioned above, this sub-genre is the one that is growing the most within the larger genre of strategy videogames.
-
+According to the Sensor Tower study mentioned above, this sub-genre is the one that is growing the most within the larger genre of strategy videogames.**
 
 ### Project Details
 
