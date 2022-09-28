@@ -27,7 +27,7 @@ These services are related with the use of the decentralized elements of the gam
 
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
 
-**Using all the elements of the blockchain:**
+**Using the elements of the NEAR blockchain:**
 
 1️⃣ **Fast transactions**
 
@@ -63,37 +63,57 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ![Model](https://i.imgur.com/XLg1YrM.png)
 
-**1.- Purchase of the Mystery Capsule (NFT) through our dApp**
+**1️⃣ Purchase of the Mystery Capsule (NFT) through our dApp**
 
-**2.- Burning of Mystery Capsule through our dApp (Opening animation)**
+**2️⃣ Burning of Mystery Capsule through our dApp (Opening animation)**
 
-**3.- The "NFTs" are generated in the database. In this step they are offchain.**
+**3️⃣ The "NFTs" are generated in the database. In this step they are offchain.**
 
-**4.- Minting of NFTs. Gas savings. Batch minting**
+**4️⃣ Minting of NFTs. Gas savings. Batch minting**
 
 > **All this system is guarded by our "Consensus" system that synchronizes our DB/API with the results of the blockchain.**
 
 - An overview of the technology stack to be used
 
-**Smart contracts - Solidity**
+➡️ **Smart contracts - Solidity**
 
-**API - PHP**
+➡️ **API - PHP**
 
-**Frontend - ReactJS & Web3JS**
+➡️ **Frontend - ReactJS & Web3JS**
 
-**Services - AWS (Bucket, Cloudfront, VM...)**
+➡️ **Services - AWS (Bucket, Cloudfront, VM...)**
 
-**Web3Services - Alchemy (Web3 request)**
+➡️ **Web3Services - Alchemy (Node & API)**
 
-> **Games - Unity**
+➡️ **Games - Unity**
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
+First,
 
+> 
+> **2 Smart Contract** (Mystery Capsule - & DECollection)
+> 
+> **dApp** - Interact with smart contracts and APIs.
+> 
+> **API with Consensus** (random nft generation - easy master control)
+> 
+> **Games** - The core of the project.
+
+Later,
+
+> 
+> **More smart contracts (Token, Staking, Pools & more)**
+> 
+> **Marketplace**
+> 
+> **Swapping NFT**
+> 
+> **More and more games**
 
 - PoC/MVP or other relevant prior work or research on the topic
 
-
+**Can test our first MVP through: https://gametest.darkearth.gg**
 
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
@@ -104,31 +124,31 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 
 - Where and how does your project fit into the ecosystem?
 
-
+➡️ **We all like to play at peak performance. NEAR offers a high amount of TPS, making it ideal for gaming.**
 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 
-
+➡️ **All gamers.**
 
 - What need(s) does your project meet?
 
+➡️ **We offer the real possession of the assets within the video game. You can do with your objects/skins whatever you want.**
 
-
-- Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
+- Are there any other projects similar to yours in the Mintbase / NEAR ecosystem? **No at the moment.**
   - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+  - If not, are there similar projects in related ecosystems? **Skyweaver - In Polygon ecosystem.**
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
 - Name of team leader: 
-- Names of team members
+- Names of team members: Jesús Sánchez Fernández
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
+- **Contact Name:** Juan Palomo Cisneros
+- **Contact Email:** jpalomo@olympusorigin.com
 - **Website:** https://darkearth.gg
 
 ### Legal Structure
@@ -150,10 +170,12 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
 - https://github.com/JSanchezFDZ
-- https://github.com/<team_member_2>
+- 
 
 ### Team LinkedIn Profiles (if available)
 
+- https://www.linkedin.com/in/jpalomocisneros/
+- https://www.linkedin.com/in/jrrbuil/
 - https://www.linkedin.com/in/jsanchezfdz/
 
 ## Development Status :open_book:
