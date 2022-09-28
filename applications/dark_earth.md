@@ -29,9 +29,9 @@ These services are related with the use of the decentralized elements of the gam
 
 **Using all the elements of the blockchain:
 
-- Fast transactions
-- Lowgas
-- Smart Contracts (NFTs & Token)**
+  - Fast transactions
+  - Lowgas
+  - Smart Contracts (NFTs & Token)**
 
 - An indication of why your team is interested in creating this project.
 
