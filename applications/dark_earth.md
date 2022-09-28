@@ -27,11 +27,13 @@ These services are related with the use of the decentralized elements of the gam
 
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
 
-**Using all the elements of the blockchain:
+**Using all the elements of the blockchain:**
 
-  - Fast transactions
-  - Lowgas
-  - Smart Contracts (NFTs & Token)**
+1️⃣ **Fast transactions**
+
+2️⃣ **Low gas**
+
+3️⃣ **Smart Contracts (NFTs & Token)**
 
 - An indication of why your team is interested in creating this project.
 
@@ -45,10 +47,54 @@ According to the Sensor Tower study mentioned above, this sub-genre is the one t
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
 - Mockups/designs of any UI components
+
+**dApp - Login**
+![dApp - Intro](https://i.imgur.com/Dd2rcZn.png)
+**dApp - Buy**
+![dApp - Buy](https://i.imgur.com/FXVCsY2.png)
+**dApp - Opening capsule**
+![dApp - Opening](https://i.imgur.com/uGtSCsC.png)
+**dApp - My NFTs**
+![dApp - Cards](https://i.imgur.com/5OtED3S.jpeg)
+**dApp - NFT Gallery**
+![dApp - Gallery](https://i.imgur.com/HGwTGYh.jpeg)
+
 - Data models / API specifications of the core functionality
+
+![Model](https://i.imgur.com/XLg1YrM.png)
+
+**1.- Purchase of the Mystery Capsule (NFT) through our dApp**
+
+**2.- Burning of Mystery Capsule through our dApp (Opening animation)**
+
+**3.- The "NFTs" are generated in the database. In this step they are offchain.**
+
+**4.- Minting of NFTs. Gas savings. Batch minting**
+
+> **All this system is guarded by our "Consensus" system that synchronizes our DB/API with the results of the blockchain.**
+
 - An overview of the technology stack to be used
+
+**Smart contracts - Solidity**
+
+**API - PHP**
+
+**Frontend - ReactJS & Web3JS**
+
+**Services - AWS (Bucket, Cloudfront, VM...)**
+
+**Web3Services - Alchemy (Web3 request)**
+
+> **Games - Unity**
+
 - Documentation of core components, protocols, architecture, etc. to be deployed
+
+
+
 - PoC/MVP or other relevant prior work or research on the topic
+
+
+
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
@@ -57,8 +103,17 @@ We expect the teams to already have a solid idea about your project's expected f
 Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+
+
+
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+
+
+
 - What need(s) does your project meet?
+
+
+
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
   - If so, how is your project different?
   - If not, are there similar projects in related ecosystems?
@@ -67,14 +122,14 @@ Help us locate your project in the Mintbase landscape and what problems it tries
 
 ### Team members
 
-- Name of team leader
+- Name of team leader: 
 - Names of team members
 
 ### Contact
 
 - **Contact Name:** Full name of the contact person in your team
 - **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Website:** https://darkearth.gg
 
 ### Legal Structure
 
@@ -89,19 +144,17 @@ If anyone on your team has applied for a grant at the Mintbase previously, pleas
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
+- https://github.com/DarkEarthGAME
+- https://github.com/DarkEarthGAME/DarkEarth_SC
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
 
-- https://github.com/<team_member_1>
+- https://github.com/JSanchezFDZ
 - https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/jsanchezfdz/
 
 ## Development Status :open_book:
 
